@@ -1,0 +1,6 @@
+{
+  "packs": [
+    "jsv.json"
+  ],
+  "homeserver_url": "https://matrix.today-sf.xyz"
+}
